@@ -1,6 +1,6 @@
 version: '3.7'
 services:
-  # REST API running on Node JS container
+  # REST API running on Node JS container.
   app:
     container_name: lafs-api
     restart: always
